@@ -9,7 +9,6 @@ La temperatura máxima se representa como el círculo más grande que amplia o r
 en función del día. Es lo mismo para el círculo más pequeño que representa la temperatura mínima.
 Para la mediana, es la línea en el medio que crece o decrece.
 
-No tuve éxito con mi programa. Vale un 1, pero lo subo de todas formas.
 */
 
 //Declaración de variables
